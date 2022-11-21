@@ -59,6 +59,28 @@ Mejora pagina existente con uso de Javascript-Para una empresa emprendedora cord
  </p>
  </details>
  
+ * [PIECE-OF-CAKE](https://github.com/MarianaSalez/Piece-of-Cake) es una pagina web cuya finalidad es brindar recetas a los usuarios, y permitir que los clientes tambien hagan su aporte a la base de datos y compartan sus recetas.
+ <p align="center">
+ <img src="https://res.cloudinary.com/dvkvyi1dr/video/upload/v1669070745/cv/2022-10-06_18-08-25_Trim_njp8t5.mp4" alt="Funcionalidad piece of Cake"/>
+ </p>
+ 
+ * JUIRA es un market-place para la compra y venta de cosas usadas entre pequenos consumidores. En este mercado el usuario una vez logueado puede asusmir el rol de comprador y/o vendedor. Sin embargo previo a estar logueado el mismo puede acceder a varias funcionalidades.
+
+ <p align="center">
+ <img src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_236/v1669070124/cv/juira_home_rsnqqg.jpg" alt="Juira-Home"/>
+ </p>
+
+
+ 
+ Deploy: https://juira-market-place.vercel.app/
+ 
+ Funcionalidad: https://www.youtube.com/watch?v=CKKNUnyKdVk
+ 
+ Respositorios:
+ [FRONT](https://github.com/MarianaSalez/PF-Henry-PT07G06-FRONT)
+ [BACK](https://github.com/MarianaSalez/PF-Henry-PT07G06-BACK)
+ 
+ 
  
 <!--
 
