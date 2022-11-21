@@ -32,6 +32,8 @@ Desarrollo Mobile:
 ![ANDROID](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062686/cv/icosn/icons8-android-os-96_g64ozu.png) • ![KOTLIN](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062685/cv/icosn/icons8-kotlin-96_h9y4qf.png) • ![JETPACK](https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_90/v1669062685/cv/icosn/jetpack_android_msxnsh.jpg) • ![JUINT](https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_96,w_142/v1669062685/cv/icosn/junit_test_wj8bzk.jpg) 
 
 ## Proyectos 💼
+
+# Desarrollo Web
 <details>
 <summary>Primero pasos</summary>
  
@@ -54,22 +56,25 @@ Mejora pagina existente con uso de Javascript-Para una empresa emprendedora cord
  
  * [ALL-IN](https://github.com/MarianaSalez/all-in-app)
  Creacion de pagina de venta de libros usados y nuevos, con REACT, context y firebase para manejo de base de datos.
-<p align="center">
+> DIC 2021-FEB 2022
+ <p align="center">
  <img src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_239/v1669067254/cv/FuncionabilidadApp_1_lggx6e.gif" alt="Funcionalidad all-in"/>
  </p>
  </details>
  
  * [PIECE-OF-CAKE](https://github.com/MarianaSalez/Piece-of-Cake) es una pagina web cuya finalidad es brindar recetas a los usuarios, y permitir que los clientes tambien hagan su aporte a la base de datos y compartan sus recetas.
+ > SEPT 2022
+
  <p align="center">
- <img src="https://res.cloudinary.com/dvkvyi1dr/video/upload/v1669070745/cv/2022-10-06_18-08-25_Trim_njp8t5.mp4" alt="Funcionalidad piece of Cake"/>
+ <img src="https://res.cloudinary.com/dvkvyi1dr/video/upload/af_16000/v1669070745/cv/2022-10-06_18-08-25_Trim_njp8t5.gif" alt="Funcionalidad piece of Cake"/>
  </p>
  
  * JUIRA es un market-place para la compra y venta de cosas usadas entre pequenos consumidores. En este mercado el usuario una vez logueado puede asusmir el rol de comprador y/o vendedor. Sin embargo previo a estar logueado el mismo puede acceder a varias funcionalidades.
-
+ > OCT 2022
+ 
  <p align="center">
  <img src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_236/v1669070124/cv/juira_home_rsnqqg.jpg" alt="Juira-Home"/>
  </p>
-
 
  
  Deploy: https://juira-market-place.vercel.app/
@@ -77,11 +82,17 @@ Mejora pagina existente con uso de Javascript-Para una empresa emprendedora cord
  Funcionalidad: https://www.youtube.com/watch?v=CKKNUnyKdVk
  
  Respositorios:
- [FRONT](https://github.com/MarianaSalez/PF-Henry-PT07G06-FRONT)
- [BACK](https://github.com/MarianaSalez/PF-Henry-PT07G06-BACK)
+ - [FRONT](https://github.com/MarianaSalez/PF-Henry-PT07G06-FRONT)
  
+ - [BACK](https://github.com/MarianaSalez/PF-Henry-PT07G06-BACK)
  
+ # Desarrollo Mobile
  
+ [BEDU-APP](https://github.com/MarianaSalez/beduapp) es una ampliacion de android tipo e-commerce. Esta en develompment, por lo tanto consume datos ficticios de productos. Entre sus funcionalidades se encuentra el inicio de sesion, el registro de los usuarios, la visualizacion de productos y la posibilidad de añadirlos a un carrito de compras.
+ 
+  <p align="center">
+ <img src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_450/v1669072609/cv/DEMO-BESUSHOP_1_gu9ouu.gif" alt="Funcionalidad BEDU=APP"/>
+ </p>
 <!--
 
 ### Hi there 👋
