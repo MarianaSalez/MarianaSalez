@@ -1,6 +1,16 @@
-### Hi there 👋
 
+ <p align="center" width="80%" height="150">
+<img src="https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669050211/cv/I_m_Marian_2_1_1_owaq0d.gif" />
+ </p>
+<h2 align="center">
+Full Stack Developer :heart: from Argentina to :earth_americas:
+</h2>
+
+
+* [![React][React.js]][React-url]
 <!--
+
+### Hi there 👋
 **MarianaSalez/MarianaSalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
