@@ -7,9 +7,9 @@
 Full Stack Developer :heart: from Argentina to :earth_americas:
 </h1>
 
-## :star: Languages and Tools [^1]:
+# :star: Languages and Tools:
 
-Desarrollo Web:
+Desarrollo Web[^1]:
 
 ![HTML5](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062685/cv/icosn/icons8-html-5-96_h9edgl.png)  ![CSS](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062685/cv/icosn/icons8-css3-96_jihdaf.png)
    ![REACT](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062684/cv/icosn/icons8-reaccionar-80_duj6gv.png)  ![REDUX](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062669/cv/icosn/icons8-redux-96_to1sby.png)  ![JAVASCRIPT](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062684/cv/icosn/icons8-javascript-96_inr82q.png)  ![NODE](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062685/cv/icosn/icons8-nodejs-96_kwwl7w.png) 
@@ -31,15 +31,18 @@ Desarrollo Mobile:
 
 ![ANDROID](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062686/cv/icosn/icons8-android-os-96_g64ozu.png) • ![KOTLIN](https://res.cloudinary.com/dvkvyi1dr/image/upload/v1669062685/cv/icosn/icons8-kotlin-96_h9y4qf.png) • ![JETPACK](https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_90/v1669062685/cv/icosn/jetpack_android_msxnsh.jpg) • ![JUINT](https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_96,w_142/v1669062685/cv/icosn/junit_test_wj8bzk.jpg) 
 
-## Proyectos 💼
+# Proyectos 💼
 
-# Desarrollo Web
+## Desarrollo Web
 <details>
 <summary>Primero pasos</summary>
  
 * [SIS-SAS](https://github.com/MarianaSalez/SIS-SAS)
+
 Pagina para una consultora de ingenieria, es mi orgullo porque fueron mis primeros pasos en programacion. Usando solo HTML, CSS y Bootstrap
+
 > NOV 2020-FEB 2021
+ 
 <p align="center">
  <img src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_238/v1669065323/cv/sissas_base_cgrd9b.jpg" alt="SIS-SAS"/>
  <img src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_243/v1669065146/cv/detalle_sissas_i9g8xh.jpg" alt="SIS-SAS2"/>
@@ -64,12 +67,20 @@ Mejora pagina existente con uso de Javascript-Para una empresa emprendedora cord
  
  * [PIECE-OF-CAKE](https://github.com/MarianaSalez/Piece-of-Cake) es una pagina web cuya finalidad es brindar recetas a los usuarios, y permitir que los clientes tambien hagan su aporte a la base de datos y compartan sus recetas.
  > SEPT 2022
+ 
+ <p align="center">
+ <img width="40%" src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_250/v1669075315/landingpieceofcake_hlm64d.jpg" alt="Landing piece of Cake"/>
+ <img width="40%" src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_250/v1669075315/homepieceof_cake_eje049.jpg" alt="Funcionalidad piece of Cake"/>
+ </p>
+
+
 
  <p align="center">
- <img src="https://res.cloudinary.com/dvkvyi1dr/video/upload/af_16000/v1669070745/cv/2022-10-06_18-08-25_Trim_njp8t5.gif" alt="Funcionalidad piece of Cake"/>
+ <img src="https://res.cloudinary.com/dvkvyi1dr/video/upload/v1669074310/2022-10-06_18-08-25_rgtg8o.gif" alt="Funcionalidad piece of Cake"/>
  </p>
  
- * JUIRA es un market-place para la compra y venta de cosas usadas entre pequenos consumidores. En este mercado el usuario una vez logueado puede asusmir el rol de comprador y/o vendedor. Sin embargo previo a estar logueado el mismo puede acceder a varias funcionalidades.
+ * JUIRA Es un market-place para la compra y venta de cosas usadas entre pequeños consumidores. En este mercado el usuario una vez logueado puede asumir el rol de comprador y/o vendedor. Sin embargo previo a estar logueado el mismo puede acceder a varias funcionalidades.
+ 
  > OCT 2022
  
  <p align="center">
@@ -86,9 +97,11 @@ Mejora pagina existente con uso de Javascript-Para una empresa emprendedora cord
  
  - [BACK](https://github.com/MarianaSalez/PF-Henry-PT07G06-BACK)
  
- # Desarrollo Mobile
+ ## Desarrollo Mobile
  
  [BEDU-APP](https://github.com/MarianaSalez/beduapp) es una ampliacion de android tipo e-commerce. Esta en develompment, por lo tanto consume datos ficticios de productos. Entre sus funcionalidades se encuentra el inicio de sesion, el registro de los usuarios, la visualizacion de productos y la posibilidad de añadirlos a un carrito de compras.
+ 
+ > SEPT 2021-OCT 2021
  
   <p align="center">
  <img src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_450/v1669072609/cv/DEMO-BESUSHOP_1_gu9ouu.gif" alt="Funcionalidad BEDU=APP"/>
