@@ -7,7 +7,7 @@
 Full Stack Developer :heart: from Argentina to :earth_americas:
 </h1>
 
-Soy Ingeniera civil, me encanta pensar soluciones eficientes y creativas. Tambien son Full Stack Developer y quiero construir en este mundo globalizado desde la tecnología soluciones eficientes para clientes con grandes sueños. ⭐
+Soy Ingeniera civil, me encanta pensar soluciones eficientes y creativas. Tambien soy Full Stack Developer y quiero construir en este mundo globalizado desde la tecnología soluciones eficientes para clientes con grandes sueños. ⭐
 
 Mi trabajo como inspectora de obra me entreno para prestar atención al detalle y la calidad. Actualmente, soy Teaching Assistant en Henry, sin dejar de aprender cosas nuevas para mis alumnos y para mi.
 
@@ -73,8 +73,8 @@ Mejora pagina existente con uso de Javascript-Para una empresa emprendedora cord
  > SEPT 2022
  
  <p align="center">
- <img width="40%" src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_250/v1669075315/landingpieceofcake_hlm64d.jpg" alt="Landing piece of Cake"/>
- <img width="40%" src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_250/v1669075315/homepieceof_cake_eje049.jpg" alt="Funcionalidad piece of Cake"/>
+ <img width="45%" src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_250/v1669075315/landingpieceofcake_hlm64d.jpg" alt="Landing piece of Cake"/>
+ <img width="45%" src="https://res.cloudinary.com/dvkvyi1dr/image/upload/c_scale,h_250/v1669075315/homepieceof_cake_eje049.jpg" alt="Funcionalidad piece of Cake"/>
  </p>
 
 
