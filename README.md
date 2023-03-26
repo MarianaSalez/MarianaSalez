@@ -9,7 +9,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 Soy Ingeniera civil, me encanta pensar soluciones eficientes y creativas. Tambien soy Full Stack Developer y quiero construir en este mundo globalizado desde la tecnología soluciones eficientes para clientes con grandes sueños. ⭐
 
-Mi trabajo como inspectora de obra me entreno para prestar atención al detalle y la calidad. Actualmente, soy Teaching Assistant en Henry, sin dejar de aprender cosas nuevas para mis alumnos y para mi.
+Mi trabajo como inspectora de obra me entreno para prestar atención al detalle y la calidad. Actualmente, estoy haciendo realizando una diplomatura en la Universidad Nacional de San Martin
 
 # :star: Languages and Tools:
 
